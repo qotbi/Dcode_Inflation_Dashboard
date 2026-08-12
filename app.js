@@ -2,8 +2,8 @@
 //filenames from gethub (place your CSVs in /data/)
 const FILES = {
   inflationDetails: 'https://raw.githubusercontent.com/qotbi/Dcode_Inflation_Dashboard/refs/heads/main/July%20Inflation%20Data.csv',
-  annualHistory: 'https://raw.githubusercontent.com/oelkaraksy/Dcode_Inflation_Dashboard/refs/heads/main/Annual%20Inflation%20Historical%20Data.csv',
-  monthlyHistory: 'https://raw.githubusercontent.com/oelkaraksy/Dcode_Inflation_Dashboard/refs/heads/main/Monthly%20Inflation%20Historical%20Data.csv'
+  annualHistory: 'https://raw.githubusercontent.com/qotbi/Dcode_Inflation_Dashboard/refs/heads/main/Annual%20Inflation%20Historical%20Data.csv',
+  monthlyHistory: 'https://raw.githubusercontent.com/qotbi/Dcode_Inflation_Dashboard/refs/heads/main/Monthly%20Inflation%20Historical%20Data.csv'
 };
 
 
