@@ -6,7 +6,7 @@ const FILES = {
   monthlyHistory: 'https://raw.githubusercontent.com/qotbi/Dcode_Inflation_Dashboard/refs/heads/main/Monthly%20Inflation%20Historical%20Data.csv'
 };
 
-
+ 
 // -----------------------------
 // Robust CSV parser (handles quoted fields and commas inside quotes)
 function parseCSVString(csv) {
